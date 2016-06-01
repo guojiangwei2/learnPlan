@@ -14,7 +14,7 @@
 * random forrest
 * logit regression
 
-### modeling
+### modeling skills
 * r
 * numpy
 * pandas
@@ -22,13 +22,16 @@
 
 ### visulization
 * r ggplot
-* python flask
-* git
-* web skills
+* web visulization skills
 
 ### big data
 * hadoop(java)
 * mongodb
+
+### NLP
+
+### NEWSFEED
+https://github.com/tschellenbach/Stream-Framework
 
 --- --- ---
 
@@ -49,6 +52,10 @@
 * unix and git for 2 stars( ok for work);
 * svm, ds and rf for 3 stars;
 
+### books
+* programmer's guide to data minning (http://guidetodatamining.com/)
+
+--- --- ---
 ## most needs
 * work experience;
 * visulation skills;
