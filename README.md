@@ -3,7 +3,9 @@
 --- --- ---
 
 ## *NOW*
-* git (http://www.tutorialspoint.com/git/);
+* NLP for text theme detect
+* pandora data virulization
+* write the note of R committee
 
 ## NEEDS TO LEARN
 ### algorithm
@@ -39,6 +41,7 @@
 ## FINISHED
 * R programming (http://www.tutorialspoint.com/r/);
 * Unix system (http://www.tutorialspoint.com//unix/);
+* git (http://www.tutorialspoint.com/git/);
 
 ## manipulate
 * python coding with elegent style for 4 stars;
