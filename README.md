@@ -41,12 +41,12 @@ https://github.com/tschellenbach/Stream-Framework
 
 -- --- ---
 
-## FINISHED
+### FINISHED
 * R programming (http://www.tutorialspoint.com/r/);
 * Unix system (http://www.tutorialspoint.com//unix/);
 * git (http://www.tutorialspoint.com/git/);
 
-## manipulate
+### manipulate
 * python coding with elegent style for 4 stars;
 * r with graph and statistic for 2 stars;
 * unix and git for 2 stars( ok for work);
@@ -56,6 +56,6 @@ https://github.com/tschellenbach/Stream-Framework
 * programmer's guide to data minning (http://guidetodatamining.com/)
 
 --- --- ---
-## most needs
+### most needs
 * work experience;
 * visulation skills;
